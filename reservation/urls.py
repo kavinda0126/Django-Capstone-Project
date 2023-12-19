@@ -1,11 +1,11 @@
 from django.urls import path
-from .views import index,bookingview
+from .views import index,bookingview,menuview
 
 
 urlpatterns=[
 
     path('',index,name='index'),
-   # path('menu/',views.Menu.as_),
+    path('menu/',menuview.as_view()),
     path('booking/',bookingview.as_view())
 
 ]
