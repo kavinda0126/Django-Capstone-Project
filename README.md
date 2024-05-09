@@ -1,6 +1,6 @@
 # Meta Backend Capstone Project
 
-This is the capstone project for the Meta Backend Developer Professional Certificate, implemented by [Your Name]. Using Django and Django REST Framework, this project showcases skills in building robust web applications with features including RESTful API design, authentication, authorization, and database integration.
+This is the capstone project for the Meta Backend Developer Professional Certificate, implemented by myself. Using Django and Django REST Framework, this project showcases skills in building robust web applications with features including RESTful API design, authentication, authorization, and database integration.
 
 ## How to Run
 
